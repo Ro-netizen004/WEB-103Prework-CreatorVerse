@@ -31,15 +31,15 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] List anything else that you added to improve the site's functionality!
- Search bar that filters creators by name, category, or description (case-insensitive)
- Responsive card layout with hover effects
- Featured Creators section with add/remove functionality
- Real-time UI updates without page reload after adding or deleting creators
- Visual loading spinner while data is being fetched
- Styled with Tailwind CSS for clean design and mobile responsiveness
- Custom empty state for when no creators are added
- Footer with external links
- Added Toaster notification during form submissions
+-[x] Search bar that filters creators by name, category, or description (case-insensitive)
+-[x]Responsive card layout with hover effects
+-[x]Featured Creators section with add/remove functionality
+-[x]Real-time UI updates without page reload after adding or deleting creators
+-[x]Visual loading spinner while data is being fetched
+-[x]Styled with Tailwind CSS for clean design and mobile responsiveness
+-[x]Custom empty state for when no creators are added
+-[x]Footer with external links
+-[x]Added Toaster notification during form submissions
 
 ## Video Walkthrough
 

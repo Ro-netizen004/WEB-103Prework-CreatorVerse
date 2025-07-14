@@ -13,7 +13,6 @@ const App = () => {
         <Route path = "/addcreator" element = {<AddCreator/>} />
         <Route path ="/updatecreator/:id" element = {<UpdateCreator/>} />
         <Route path ="/getcreator/:id" element = {<CreatorPage />} />
-        
       </Routes>
       
     <Toaster

@@ -39,6 +39,7 @@ The following **additional** features are implemented:
  Styled with Tailwind CSS for clean design and mobile responsiveness
  Custom empty state for when no creators are added
  Footer with external links
+ Added Toaster notification during form submissions
 
 ## Video Walkthrough
 

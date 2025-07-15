@@ -31,7 +31,7 @@ const HomePage = ({setCreatorData}) => {
       <div className="absolute inset-0 bg-gradient-to-b from-black/80 to-black/70 backdrop-blur-sm z-0" />
 
       {/* Hero section */}
-      <div id="home" className="relative md:w-[70%] flex items-center justify-center text-white z-10 px-6 py-12 min-h-[400px]">
+      <div id="home" className="relative md:w-[70%] flex items-center justify-center text-white z-10 px-6 py-12 min-h-[400px] pt-28">
         <div className="max-w-xl text-center md:text-left animate-fade-in">
           <h1 className="text-5xl md:text-6xl font-extrabold flex flex-wrap justify-center md:justify-start items-center gap-3 mb-4">
             <span className="text-red-500 drop-shadow-lg">Creator</span>
